@@ -54,4 +54,4 @@ function get_fcontent( $url,  $javascript_loop = 0, $timeout = 5 ) {
         }
     });
 	
-</script>
+</script>ssss
